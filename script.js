@@ -24,7 +24,7 @@ async function initialize() {
 
   console.log(editor);
 
-  await editor.assetManager.addFromPath("https://rio-assets.s3.eu-west-2.amazonaws.com/rings/ring-prong-1.glb");
+  await editor.assetManager.addFromPath("https://rio-assets.s3.eu-west-2.amazonaws.com/rings/high-quality.glb");
 
   // add model manager
 
